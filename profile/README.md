@@ -5,4 +5,4 @@
 ## Korea Finder 
 * Web-site: [korea-finder.seungwon.tech](https://korea-finder.seungwon.tech/)
 * Github Repository: [Korea Finder](https://github.com/seungwon-me/KoreaFinder)
-* SRS: [https://github.com/seungwon-me/SRS/blob/main/Korea-Finder/SRS.md](https://github.com/seungwon-me/SRS/blob/main/Korea-Finder/SRS.md)
+* SRS: [Read SRS](https://github.com/seungwon-me/SRS/blob/main/Korea-Finder/SRS.md)
