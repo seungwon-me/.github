@@ -6,7 +6,7 @@
 * Web-site: [seungwon.me](https://seungwon.me)
 * Github Repository: [seungwon.me](https://github.com/seungwon-me/seungwon-me)
 
-![ (#4) (project#2) blog) ](https://github.com/user-attachments/assets/580935a2-b249-4ba7-bf78-85129afba3f9)
+![ (#4) (project#2) blog ](https://github.com/user-attachments/assets/1b4c2b92-90ea-4cd2-b635-01352a6e7d8e)
 ## Tech Blog
 * Web-site: [seungwon.tech](https://seungwon.tech)
 * Github Repository: [seungwon.tech](https://github.com/seungwon-me/seungwon-tech)
