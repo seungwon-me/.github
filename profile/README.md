@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4bedc6cb-2af9-45be-9a84-32f862bfe17d)![ (#1) seungwon.me logo image](https://github.com/user-attachments/assets/93fcab9f-5afb-46c7-994b-5d418965d8ef)
+![ (#1) seungwon.me logo image](https://github.com/user-attachments/assets/93fcab9f-5afb-46c7-994b-5d418965d8ef)
 ---
 
 ![ (#2) (project#1) portfolio) ](https://github.com/user-attachments/assets/98791fdb-76ed-40ac-8f00-4097a0d58ee3)
